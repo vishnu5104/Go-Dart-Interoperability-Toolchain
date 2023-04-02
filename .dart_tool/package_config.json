@@ -1,0 +1,152 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "ffigen",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/ffigen-7.2.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/glob-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/logging-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/package_config-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yaml_edit",
+      "rootUri": "file:///C:/Users/vishn/AppData/Local/Pub/Cache/hosted/pub.dev/yaml_edit-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "my_project",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2023-04-02T17:09:54.782733Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.6"
+}

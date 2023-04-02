@@ -1,0 +1,15 @@
+name: my_project
+description: My project using ffigen
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  ffigen: ^7.2.9
+
+ffigen:
+  output: 'generated_bindings.dart'
+  headers:
+    entry-points:
+      - libmath.h
+
