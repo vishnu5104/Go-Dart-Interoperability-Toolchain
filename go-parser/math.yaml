@@ -1,0 +1,34 @@
+name: math
+
+description: Math library
+dart:
+  library:
+    name: math
+    ffi-library: libmath.so
+  classes:
+    AddResult:
+      fields:
+        sum: int32
+      methods:
+        fromPointer:
+          constructor: true
+          static: true
+          args: [Pointer<AddResult> ptr]
+        toString:
+          override: true
+    Math:
+      methods:
+        add:
+          name: Add
+          args: [int32 x, int32 y]
+          returns: AddResult
+c:
+  types:
+    AddResult:
+      fields:
+        sum: int32_t
+  functions:
+    Add:
+      name: Add
+      args: [int32_t x, int32_t y]
+      returns: AddResult*
